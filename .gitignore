@@ -1,0 +1,10 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Build output
+bin/
+bin-int/
+
+# User-specific files
+*.user
+*.suo
