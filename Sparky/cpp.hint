@@ -3,3 +3,4 @@
 // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=865984
 #define SPARKY_API __declspec(dllexport)
 #define SPARKY_API __declspec(dllimport)
+#define BIT(x) (1 << x)
